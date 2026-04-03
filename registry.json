@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "name": "filer-official-plugins",
+      "url": "https://github.com/iyulab/filer-official-plugins",
+      "description": "Official plugins maintained by iyulab",
+      "official": true
+    }
+  ]
+}
